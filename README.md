@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+<img src="https://raw.githubusercontent.com/song-chaeyoung/song-chaeyoung/output/snake.svg" alt="Snake animation" />
+
 ## ✨Tech Stacks✨
 <div>
 <span><img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" /></span>
@@ -47,5 +49,9 @@
 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsong-chaeyoung%2Fhit-counter&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=hits%21&edge_flat=true)](https://hits.seeyoufarm.com)
+
+
+
+
 
     
