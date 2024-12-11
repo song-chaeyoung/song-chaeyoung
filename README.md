@@ -17,3 +17,12 @@
 <br/>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsong-chaeyoung%2Fhit-counter&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=hits%21&edge_flat=true)](https://hits.seeyoufarm.com)
+
+
+
+
+ <div style="text-align: left;"> <img src="https://github-readme-stats.vercel.app/api?username=song-chaeyoung&custom_title=song-chaeyoung's Github Stat&bg_color=180,0b0a0a,00000000&title_color=ffffff&text_color=ffffff"
+        /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=song-chaeyoung&layout=compact&bg_color=180,0b0a0a,00000000&title_color=ffffff&text_color=ffffff"
+           /> </div> 
+
+    
