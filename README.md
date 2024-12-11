@@ -1,6 +1,3 @@
-## Hi there 👋
-
-<img src="https://raw.githubusercontent.com/song-chaeyoung/song-chaeyoung/output/snake.svg" alt="Snake animation" />
 
 ## ✨Tech Stacks✨
 <div>
