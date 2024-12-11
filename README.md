@@ -21,8 +21,8 @@
 
 
 
- <div style="text-align: left;"> <img src="https://github-readme-stats.vercel.app/api?username=song-chaeyoung&custom_title=song-chaeyoung's Github Stat&bg_color=180,0b0a0a,00000000&title_color=ffffff&text_color=ffffff"
+ <img src="https://github-readme-stats.vercel.app/api?username=song-chaeyoung&custom_title=song-chaeyoung's Github Stat&bg_color=180,0b0a0a,00000000&title_color=ffffff&text_color=ffffff"
         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=song-chaeyoung&layout=compact&bg_color=180,0b0a0a,00000000&title_color=ffffff&text_color=ffffff"
-           /> </div> 
+           />
 
     
