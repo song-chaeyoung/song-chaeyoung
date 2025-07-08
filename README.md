@@ -35,7 +35,7 @@
 
 ## 📫Links & Contacts📫
 <a href="https://velog.io/@scy512/posts"> <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link="> </a>
-<a href=mailto:call0512@naver.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:"> </a>
+<a href=mailto:chaengdev@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:"> </a>
 
 <br/>
 
