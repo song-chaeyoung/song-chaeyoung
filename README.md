@@ -25,12 +25,6 @@
 
 <br/>
 
-## 🔋 Github Stats & 💻 Most Used Languages
-
-  <div style="text-align: left;"> 
-<div style="text-align: left;"> <img src="https://github-readme-stats.vercel.app/api?username=song-chaeyoung&bg_color=180,010101,00000000&title_color=ffffff&text_color=ffffff"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=song-chaeyoung&layout=compact&bg_color=180,010101,00000000&title_color=ffffff&text_color=ffffff"/> </div> 
-
-<br/>
 
 ## 📫Links & Contacts📫
 <a href="https://velog.io/@scy512/posts"> <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link="> </a>
